@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "John Eggbert.sln"
+    "dotnet.defaultSolution": "John Eggbert.sln",
+    "dotnet.preferCSharpExtension": true
 }
